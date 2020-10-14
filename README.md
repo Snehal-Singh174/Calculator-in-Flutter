@@ -4,6 +4,6 @@ Hello Coders!!! This is the second miniproject which we seen on 18th Day from 30
 
 ## Project
 
-![](Screenshot (36).png)
+![](output.png)
 
 ## Just follow☝️ me and Star⭐ my repository 
