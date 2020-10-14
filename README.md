@@ -1,16 +1,9 @@
-# calci_app
+## Calculator App in Flutter
 
-A new Flutter application.
+Hello Coders!!! This is the second miniproject which we seen on 18th Day from 30 Days of Flutter event. You can refer the code from here if you are facing any issue and you can contact me any time on linkdein or in CodeWarriors Whatsapp Group. Thankyou, Have a nice day!!! Keep Learning
 
-## Getting Started
+## Project
 
-This project is a starting point for a Flutter application.
+![](Screenshot(36).png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Just follow☝️ me and Star⭐ my repository 
